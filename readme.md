@@ -1,12 +1,4 @@
-
-
-this is a change in the 
-
-
-
-
-extra lining added to this file
-:i
+This is new year line staring from 01012021
 
 =======
 this change is from ec2-user linux usesr
